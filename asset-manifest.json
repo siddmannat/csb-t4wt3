@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://siddmannat.github.io/csb-t4wt3/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://siddmannat.github.io/csb-t4wt3/static/js/main.80511b45.chunk.js",
+    "main.js.map": "https://siddmannat.github.io/csb-t4wt3/static/js/main.80511b45.chunk.js.map",
+    "runtime-main.js": "https://siddmannat.github.io/csb-t4wt3/static/js/runtime-main.28e0309b.js",
+    "runtime-main.js.map": "https://siddmannat.github.io/csb-t4wt3/static/js/runtime-main.28e0309b.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "https://siddmannat.github.io/csb-t4wt3/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.d2af5aee.chunk.js": "https://siddmannat.github.io/csb-t4wt3/static/js/2.d2af5aee.chunk.js",
+    "static/js/2.d2af5aee.chunk.js.map": "https://siddmannat.github.io/csb-t4wt3/static/js/2.d2af5aee.chunk.js.map",
+    "index.html": "https://siddmannat.github.io/csb-t4wt3/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "https://siddmannat.github.io/csb-t4wt3/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "https://siddmannat.github.io/csb-t4wt3/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.d2af5aee.chunk.js.LICENSE.txt": "https://siddmannat.github.io/csb-t4wt3/static/js/2.d2af5aee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28e0309b.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.d2af5aee.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.80511b45.chunk.js"
+  ]
+}
